@@ -1,0 +1,17 @@
+{
+    "legacy_addon_id": "",
+    "title": "[DevCore Studios] Clickable Link In User Title",
+    "description": "",
+    "version_id": 100070,
+    "version_string": "1.0.0",
+    "dev": "DevCore Studios [ToSa]",
+    "dev_url": "https://zelenka.guru/tosa",
+    "faq_url": "https://zelenka.guru/tosa",
+    "support_url": "https://zelenka.guru/tosa",
+    "extra_urls": {
+        "Наш форум": "https://devcore.fun",
+        "Zelenka":   "https://zelenka.guru/"
+    },
+    "require": [],
+    "icon": ""
+}
